@@ -1,4 +1,4 @@
-# :card_index: Nike Shop Product Card
+# :mount_fuji: Nike Shop Product Card
 
 - Responsive Website Modern Design
 - Using HTML, CSS & Javascript
