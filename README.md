@@ -1,9 +1,10 @@
-# :mount_fuji: Product Card Nike Shop
+# :mount_fuji: Nike Shop
 
+- Product Card
 - Responsive Website Modern Design
 - Using HTML, CSS & Javascript
 
-### :star: [Demo](https://fakestandard.github.io/ui-nike-shop-product-card/)
+### :star: [Demo](https://fakestandard.github.io/ui-product-card-nike-shop/)
 
 ![COVER](./preview.png)
 
