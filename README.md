@@ -2,7 +2,7 @@
 
 - Product Card
 - Responsive Website Modern Design
-- Using HTML, CSS & Javascript
+- Using HTML and CSS
 
 ### :star: [Demo](https://fakestandard.github.io/ui-product-card-nike-shop/)
 
